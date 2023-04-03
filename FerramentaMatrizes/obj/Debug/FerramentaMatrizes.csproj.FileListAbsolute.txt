@@ -1,0 +1,7 @@
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\bin\Debug\FerramentaMatrizes.exe.config
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\bin\Debug\FerramentaMatrizes.exe
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\bin\Debug\FerramentaMatrizes.pdb
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\obj\Debug\FerramentaMatrizes.csproj.AssemblyReference.cache
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\obj\Debug\FerramentaMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\obj\Debug\FerramentaMatrizes.exe
+C:\Users\Anão Careca\source\repos\FerramentaMatrizes\FerramentaMatrizes\obj\Debug\FerramentaMatrizes.pdb
